@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotThatFlix</string>
+    <string name="Title">The Flash</string>
+    <string name="epsode">S2:E5</string>
+    <string name="time_video">1:50</string>
+    <string name="elapse_time_video">42:50</string>
+</resources>
